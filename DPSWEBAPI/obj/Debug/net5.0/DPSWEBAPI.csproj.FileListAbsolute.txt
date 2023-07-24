@@ -1,0 +1,182 @@
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\appsettings.json
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\DPSWEBAPI.exe
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\DPSWEBAPI.deps.json
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\DPSWEBAPI.runtimeconfig.json
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\DPSWEBAPI.runtimeconfig.dev.json
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\DPSWEBAPI.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\ref\DPSWEBAPI.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\DPSWEBAPI.pdb
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Humanizer.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.csproj.AssemblyReference.cache
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.AssemblyInfoInputs.cache
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.AssemblyInfo.cs
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.csproj.CoreCompileInputs.cache
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\staticwebassets\DPSWEBAPI.StaticWebAssets.Manifest.cache
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\staticwebassets\DPSWEBAPI.StaticWebAssets.xml
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\scopedcss\bundle\DPSWEBAPI.styles.css
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.RazorTargetAssemblyInfo.cache
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.csproj.CopyComplete
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\ref\DPSWEBAPI.dll
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.pdb
+D:\NEW API\PracticalAPI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.genruntimeconfig.cache
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\appsettings.Development.json
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\appsettings.json
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\DPSWEBAPI.exe
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\DPSWEBAPI.deps.json
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\DPSWEBAPI.runtimeconfig.json
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\DPSWEBAPI.runtimeconfig.dev.json
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\DPSWEBAPI.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\ref\DPSWEBAPI.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\DPSWEBAPI.pdb
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Humanizer.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.csproj.AssemblyReference.cache
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.AssemblyInfoInputs.cache
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.AssemblyInfo.cs
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.csproj.CoreCompileInputs.cache
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\staticwebassets\DPSWEBAPI.StaticWebAssets.Manifest.cache
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\staticwebassets\DPSWEBAPI.StaticWebAssets.xml
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\scopedcss\bundle\DPSWEBAPI.styles.css
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.RazorTargetAssemblyInfo.cache
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.csproj.CopyComplete
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\ref\DPSWEBAPI.dll
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.pdb
+F:\Company Practical\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.genruntimeconfig.cache
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\appsettings.Development.json
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\appsettings.json
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\DPSWEBAPI.StaticWebAssets.xml
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\DPSWEBAPI.exe
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\DPSWEBAPI.deps.json
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\DPSWEBAPI.runtimeconfig.json
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\DPSWEBAPI.runtimeconfig.dev.json
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\DPSWEBAPI.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\DPSWEBAPI.pdb
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Humanizer.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.csproj.AssemblyReference.cache
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.AssemblyInfoInputs.cache
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.AssemblyInfo.cs
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.csproj.CoreCompileInputs.cache
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\scopedcss\bundle\DPSWEBAPI.styles.css
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\staticwebassets\DPSWEBAPI.StaticWebAssets.Manifest.cache
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\staticwebassets\DPSWEBAPI.StaticWebAssets.Pack.cache
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\staticwebassets\msbuild.DPSWEBAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\staticwebassets\msbuild.build.DPSWEBAPI.props
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.DPSWEBAPI.props
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.DPSWEBAPI.props
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.RazorTargetAssemblyInfo.cache
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.csproj.CopyComplete
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\refint\DPSWEBAPI.dll
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.pdb
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\DPSWEBAPI.genruntimeconfig.cache
+F:\Company Practical\Project APiI and UI\DPSWEBAPI\DPSWEBAPI\obj\Debug\net5.0\ref\DPSWEBAPI.dll
